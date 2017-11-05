@@ -1,0 +1,18 @@
+<% include partials/head %>
+
+<form action="/login" method="POST">
+
+  <fieldset class="login">
+    <legend>Login In</legend>
+
+    <label for="name">Email</label>
+    <input type="text" id="name" placeholder="email" name="user_email">
+
+    <label for="password">Password</label>
+    <input type="password" id="password" placeholder="password" name="user_password">
+
+  </fieldset>
+
+  <button type="submit">Login In</button>
+
+<% include partials/footer %>
