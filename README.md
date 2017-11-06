@@ -3,6 +3,8 @@ Simple patients checkout for hospitals. The Idea is that the web application can
 <br>
 
 This was originally done at an Hackathon but I wanted to continue to work on it.
+<br>
+Original name for this was SelfOut.
 
 <br>
 
