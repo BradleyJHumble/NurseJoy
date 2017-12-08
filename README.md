@@ -1,11 +1,7 @@
-Simple patients checkout for hospitals. The Idea is that the web application can match a face with a profile. Then the system would be open for doctors or other administrators to be able to give medication and sign off on duties. Please Keep in mind this is a functioning demo to show it can be applied on bigger scaled projects. This project uses mongodb for my connivance and no way is it HIPPA compliance.  
+Hospital Management System.
 
-<br>
+Features to include:
 
-This was originally done at an Hackathon but I wanted to continue to work on it.
-<br>
-Original name for this was SelfOut.
+Patient file system 
 
-<br>
-
-<h2> This respository is still being worked on!</h2>
+Doctor managemnt system- to add patients info, medication, and be able to set an schedule for when patients should get care or medications as well as an verification when an task is done. 
